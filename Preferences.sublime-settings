@@ -1,0 +1,21 @@
+{
+	"Seti_SB_blue": true,
+	"Seti_tabs_small": false,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		}
+	],
+	"color_scheme": "Packages/Brackets Color Scheme/Brackets Dark.tmTheme",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"theme": "Seti_orig.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}

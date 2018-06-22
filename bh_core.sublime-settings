@@ -1,0 +1,25 @@
+{
+    // Define region highlight styles
+    "bracket_styles": {
+        "default": {
+            "icon": "tag",
+            "color": "blue",
+            "style": "outline"
+        },
+
+        // This particular style is used to highlight
+        // unmatched bracket pairs.  It is a special
+        // style.
+        "unmatched": {
+            "icon": "question",
+            "color": "region.redish",
+            "style": "outline"
+        },
+        // User defined region styles
+        "curly": {
+            "icon": "curly_bracket",
+            // "color": "region.purplish"
+            // "style": "underline"
+        }
+    }
+}

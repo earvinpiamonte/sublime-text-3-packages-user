@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Autoprefixer",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Brackets Color Scheme",
+		"Color Highlighter",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"MarkdownPreview",
+		"Material Color Scheme",
+		"Materialize",
+		"Package Control",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-phplint"
+	]
+}
