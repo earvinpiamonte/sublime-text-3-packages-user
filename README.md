@@ -20,5 +20,5 @@ mv sublime-text-3-packages-user/ User
 2. Install Package Control by pressing `CTRL + Shift + P`.
 3. Wait for the packages to be installed and just close the dialog boxes that will show.
 4. Press `CTRL + ~` to see progress.
-5. After all is done, close Sublime Text 3.
-6. Open Sublime Text 3 and let other application be installed automatically if there is.
+5. You may need to restart Sublime Text 3 several times.
+6. Optionally remove `User-initial`.
