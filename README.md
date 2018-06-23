@@ -11,7 +11,7 @@ cd .config/sublime-text-3/Packages
 mv User/ User-initial
 ```
 ```
-git clone git@gitlab.com:earvinpiamonte/sublime-text-3-packages-user.git
+git clone https://gitlab.com/earvinpiamonte/sublime-text-3-packages-user.git
 ```
 ```
 mv sublime-text-3-packages-user/ User
