@@ -16,8 +16,6 @@
 		"MarkdownLivePreview",
 		"Package Control",
 		"Seti_UI",
-		"SideBarEnhancements",
-		"SublimeLinter",
-		"SublimeLinter-phplint"
+		"SideBarEnhancements"
 	]
 }
