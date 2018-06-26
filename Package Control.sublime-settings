@@ -6,8 +6,6 @@
 	"installed_packages":
 	[
 		"Alignment",
-		"Autoprefixer",
-		"Boxy Theme",
 		"BracketHighlighter",
 		"Brackets Color Scheme",
 		"Color Highlighter",
@@ -15,9 +13,6 @@
 		"Emmet",
 		"Git",
 		"GitGutter",
-		"MarkdownPreview",
-		"Material Color Scheme",
-		"Materialize",
 		"Package Control",
 		"Seti_UI",
 		"SideBarEnhancements",
