@@ -12,6 +12,8 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
+		"SublimeLinter",
+		"SublimeLinter-phplint",
 		"Vintage"
 	],
 	"save_on_focus_lost": true,
