@@ -8,7 +8,7 @@
 			"selector": "text.html"
 		}
 	],
-	"color_scheme": "Packages/Brackets Color Scheme/Brackets Dark.tmTheme",
+	"color_scheme": "Packages/User/Color Highlighter/themes/Brackets Dark.tmTheme",
 	"font_size": 10,
 	"ignored_packages":
 	[
