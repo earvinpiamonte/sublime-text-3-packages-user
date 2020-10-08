@@ -9,19 +9,19 @@
 		}
 	],
 	"color_scheme": "Packages/Brackets Color Scheme/Brackets Dark.sublime-color-scheme",
-	"font_size": 14,
 	"font_face": "Dank Mono",
 	"font_options":
 	[
-	    "gray_antialias"
+		"gray_antialias"
 	],
+	"font_size": 14,
 	"ignored_packages":
 	[
-		"SublimeLinter",
 		"SublimeLinter-phplint",
 		"Vintage"
 	],
 	"save_on_focus_lost": true,
+	"translate_tabs_to_spaces": true,
 	"theme": "Seti_orig.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
